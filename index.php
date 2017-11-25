@@ -9,6 +9,7 @@ if(isset($_GET['downloadmodule'])){
 
     
 }
+if(!isset($_GET)){echo "?menu for menu";}
 
 
 ?>
